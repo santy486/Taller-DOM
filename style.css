@@ -1,0 +1,41 @@
+body{
+ background-image: url(img/fo.jpg);
+ background-attachment: fixed; 
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.bg-dark2{
+    background-image: url(../img/Santy2.jpg);
+}
+.tittle{
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    font-family: cursive;
+}
+.cuadro{
+    padding: 6px 450px;
+    text-align: left;
+}
+.estiloBoton{
+    display: block;
+    margin-right:auto ;
+    margin-left:450px ;
+    background-color: white;
+    color: black;
+    padding: 4px 20px;
+    border-radius: 5px;
+    font-family: cursive;
+}
+.colorTexto{
+    font-size: 30px;
+    color: whitesmoke;
+}
+.colorI{
+color: grey !important;
+}
+li{
+    color: greenyellow;
+    font-size: 27px;
+    
+}
